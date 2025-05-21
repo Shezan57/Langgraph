@@ -7,6 +7,10 @@ __pycache__/
 *.so
 
 # Distribution / packaging
+.idea/LANGGRAPH.iml
+.idea/misc.xml
+venv/
+.idea/
 .idea
 .Python
 new_env
